@@ -1,0 +1,470 @@
+Number,First Name,Last Name,Position,PosNum,Age,Birthyear,College,Salary,Full Name
+24,Kobe,Bryant,SG,2,37,1978,None,25000000,Kobe Bryant
+7,Joe,Johnson,SF,3,34,1981,Arkansas,24894863,Joe Johnson
+23,LeBron,James,SF,3,30,1985,None,22970500,LeBron James
+7,Carmelo,Anthony,SF,3,31,1984,Syracuse,22875000,Carmelo Anthony
+12,Dwight,Howard,C,5,29,1986,None,22359364,Dwight Howard
+1,Chris,Bosh,PF,4,31,1984,Georgia Tech,22192730,Chris Bosh
+3,Chris,Paul,PG,1,30,1985,Wake Forest,21468695,Chris Paul
+35,Kevin,Durant,SF,3,27,1988,Texas,20158622,Kevin Durant
+1,Derrick,Rose,PG,1,26,1989,Memphis,20093064,Derrick Rose
+3,Dwyane,Wade,SG,2,33,1982,Marquette,20000000,Dwyane Wade
+11,Brook,Lopez,C,5,27,1988,Stanford,19689000,Brook Lopez
+0,Kevin,Love,PF,4,27,1988,UCLA,19689000,Kevin Love
+6,DeAndre,Jordan,C,5,27,1988,Texas A&M;,19689000,DeAndre Jordan
+33,Marc,Gasol,C,5,30,1985,None,19689000,Marc Gasol
+12,LaMarcus,Aldridge,PF,4,30,1985,Texas,19689000,LaMarcus Aldridge
+32,Blake,Griffin,PF,4,26,1989,Oklahoma,18907726,Blake Griffin
+13,Paul,George,SF,3,25,1990,Fresno State,17120106,Paul George
+0,Russell,Westbrook,PG,1,26,1989,UCLA,16744218,Russell Westbrook
+21,Jimmy,Butler,SG,2,26,1989,Marquette,16407500,Jimmy Butler
+2,Kyrie,Irving,PG,1,23,1992,Duke,16407500,Kyrie Irving
+23,Wesley,Matthews,SG,2,28,1987,Marquette,16407500,Wesley Matthews
+15,Greg,Monroe,C,5,25,1990,Georgetown,16407500,Greg Monroe
+11,Enes,Kanter,C,5,23,1992,Kentucky,16407500,Enes Kanter
+2,Kawhi,Leonard,SF,3,24,1991,San Diego State,16407500,Kawhi Leonard
+12,Tobias,Harris,SF,3,23,1992,Tennessee,16000000,Tobias Harris
+15,DeMarcus,Cousins,C,5,25,1990,Kentucky,15851950,DeMarcus Cousins
+2,John,Wall,PG,1,25,1990,Kentucky,15851950,John Wall
+13,James,Harden,SG,2,26,1989,Arizona State,15756438,James Harden
+17,Roy,Hibbert,C,5,28,1987,Georgetown,15592217,Roy Hibbert
+10,Eric,Gordon,SG,2,26,1989,Indiana,15514031,Eric Gordon
+11,Klay,Thompson,SG,2,25,1990,Washington State,15501000,Klay Thompson
+42,David,Lee,PF,4,32,1983,Florida,15493680,David Lee
+20,Gordon,Hayward,SG,2,25,1990,Butler,15409570,Gordon Hayward
+25,Chandler,Parsons,SF,3,26,1989,Florida,15361500,Chandler Parsons
+7,Goran,Dragic,SG,2,29,1986,None,14783000,Goran Dragic
+22,Khris,Middleton,SF,3,24,1991,Texas A&M;,14700000,Khris Middleton
+23,Draymond,Green,SF,3,25,1990,Michigan State,14260870,Draymond Green
+8,Danilo,Gallinari,SF,3,27,1988,None,14000000,Danilo Gallinari
+1,Reggie,Jackson,PG,1,25,1990,Boston College,13913044,Reggie Jackson
+12,Andrew,Bogut,C,5,30,1985,Utah,13800000,Andrew Bogut
+5,DeMarre,Carroll,SF,3,29,1986,Missouri,13600000,DeMarre Carroll
+25,Al,Jefferson,C,5,30,1985,None,13500000,Al Jefferson
+2,Eric,Bledsoe,PG,1,25,1990,Kentucky,13500000,Eric Bledsoe
+3,Brandon,Knight,PG,1,23,1992,Kentucky,13500000,Brandon Knight
+9,Tony,Parker,PG,1,33,1982,None,13437500,Tony Parker
+13,Joakim,Noah,C,5,30,1985,Florida,13400000,Joakim Noah
+5,Nicolas,Batum,SF,3,26,1989,None,13125306,Nicolas Batum
+4,Tyson,Chandler,C,5,32,1983,None,13000000,Tyson Chandler
+42,Nene,Hilario,PF,4,33,1982,None,13000000,Nene Hilario
+9,Ricky,Rubio,PG,1,24,1991,None,12700000,Ricky Rubio
+42,Robin,Lopez,C,5,27,1988,Stanford,12650000,Robin Lopez
+3,Ty,Lawson,PG,1,27,1988,North Carolina,12404495,Ty Lawson
+8,Rudy,Gay,SF,3,29,1986,Connecticut,12403101,Rudy Gay
+9,Serge,Ibaka,PF,4,26,1989,None,12250000,Serge Ibaka
+14,Nikola,Pekovic,C,5,29,1986,None,12100000,Nikola Pekovic
+90,Amir,Johnson,PF,4,28,1987,None,12000000,Amir Johnson
+15,Kemba,Walker,PG,1,25,1990,Connecticut,12000000,Kemba Walker
+7,Kyle,Lowry,PG,1,29,1986,Villanova,12000000,Kyle Lowry
+15,Derrick,Favors,PF,4,24,1991,Georgia Tech,12000000,Derrick Favors
+9,Andre,Iguodala,SG,2,31,1984,Arizona,11710456,Andre Iguodala
+30,Stephen,Curry,PG,1,27,1988,Davidson,11370786,Stephen Curry
+9,Nikola,Vucevic,C,5,24,1991,USC,11250000,Nikola Vucevic
+30,Thaddeus,Young,SF,3,27,1988,Georgia Tech,11235955,Thaddeus Young
+35,Kenneth,Faried,PF,4,25,1990,Morehead State,11235955,Kenneth Faried
+13,Marcin,Gortat,C,5,31,1984,None,11217391,Marcin Gortat
+1,Tyreke,Evans,SG,2,26,1989,Memphis,10734586,Tyreke Evans
+11,Jrue,Holiday,PG,1,25,1990,UCLA,10595507,Jrue Holiday
+21,Wilson,Chandler,SF,3,28,1987,DePaul,10449438,Wilson Chandler
+11,Monta,Ellis,PG,1,29,1986,None,10300000,Monta Ellis
+9,Luol,Deng,SF,3,30,1985,Duke,10151612,Luol Deng
+10,DeMar,DeRozan,SG,2,26,1989,USC,10050000,DeMar DeRozan
+14,Danny,Green,SG,2,28,1987,North Carolina,10000000,Danny Green
+50,Zach,Randolph,PF,4,34,1981,Michigan State,9638555,Zach Randolph
+17,Anderson,Varejao,C,5,33,1982,None,9638554,Anderson Varejao
+11,Mike,Conley,PG,1,27,1988,Ohio State,9588426,Mike Conley
+9,Rajon,Rondo,PG,1,29,1986,Kentucky,9500000,Rajon Rondo
+10,Alec,Burks,PG,1,24,1991,Colorado,9463484,Alec Burks
+32,Jeff,Green,SF,3,29,1986,Georgetown,9450000,Jeff Green
+3,Omer,Asik,C,5,29,1986,None,9213483,Omer Asik
+1,Lance,Stephenson,SG,2,25,1990,Cincinnati,9000000,Lance Stephenson
+4,Iman,Shumpert,SG,2,25,1990,Georgia Tech,8988765,Iman Shumpert
+22,Taj,Gibson,PF,4,30,1985,USC,8500000,Taj Gibson
+21,Kevin,Garnett,PF,4,39,1976,None,8500000,Kevin Garnett
+33,Ryan,Anderson,PF,4,27,1988,California,8500000,Ryan Anderson
+7,Brandon,Jennings,PG,1,26,1989,None,8344497,Brandon Jennings
+41,Dirk,Nowitzki,PF,4,37,1978,None,8333334,Dirk Nowitzki
+33,Corey,Brewer,SG,2,29,1986,Florida,8229375,Corey Brewer
+1,Trevor,Ariza,SF,3,30,1985,UCLA,8193030,Trevor Ariza
+8,Channing,Frye,PF,4,32,1983,Arizona,8193029,Channing Frye
+8,Al-Farouq,Aminu,SF,3,25,1990,Wake Forest,8042895,Al-Farouq Aminu
+3,George,Hill,PG,1,29,1986,IUPUI,8000000,George Hill
+3,O.J.,Mayo,SG,2,27,1988,USC,8000000,O.J. Mayo
+4,Arron,Afflalo,SG,2,29,1986,UCLA,8000000,Arron Afflalo
+11,Markieff,Morris,PF,4,26,1989,Kansas,8000000,Markieff Morris
+23,Ersan,Ilyasova,PF,4,28,1987,None,7900000,Ersan Ilyasova
+0,Avery,Bradley,PG,1,24,1991,Texas,7730337,Avery Bradley
+41,Kosta,Koufos,C,5,26,1989,Ohio State,7700000,Kosta Koufos
+33,Boris,Diaw,C,5,33,1982,None,7500000,Boris Diaw
+16,Pau,Gasol,PF,4,35,1980,None,7448760,Pau Gasol
+3,Jose,Calderon,PG,1,34,1981,None,7402812,Jose Calderon
+4,J.J.,Redick,SG,2,31,1984,Duke,7085000,J.J. Redick
+23,Kevin,Martin,SG,2,32,1983,Western Carolina,7085000,Kevin Martin
+23,Anthony,Davis,PF,4,22,1993,Kentucky,7070730,Anthony Davis
+1,Jason,Thompson,PF,4,29,1986,Rider,7008475,Jason Thompson
+2,Marvin,Williams,PF,4,29,1986,North Carolina,7000000,Marvin Williams
+2,Rodney,Stuckey,PG,1,29,1986,Eastern Washington,7000000,Rodney Stuckey
+23,Louis,Williams,SG,2,28,1987,None,7000000,Louis Williams
+6,Cory,Joseph,PG,1,24,1991,Texas,7000000,Cory Joseph
+17,Ed,Davis,PF,4,26,1989,North Carolina,6980802,Ed Davis
+4,Isaiah,Thomas,PG,1,26,1989,Washington,6912869,Isaiah Thomas
+99,Jae,Crowder,SF,3,25,1990,Marquette,6796117,Jae Crowder
+21,Greivis,Vasquez,PG,1,28,1987,Maryland,6600000,Greivis Vasquez
+12,Aron,Baynes,PF,4,28,1987,Washington State,6500000,Aron Baynes
+7,Carl,Landry,PF,4,32,1983,Purdue,6500000,Carl Landry
+2,Patrick,Beverley,PG,1,27,1988,Arkansas,6486486,Patrick Beverley
+14,Michael,Kidd-Gilchrist,SF,3,22,1993,Kentucky,6331404,Michael Kidd-Gilchrist
+2,Jarrett,Jack,PG,1,31,1984,Georgia Tech,6300000,Jarrett Jack
+20,Jodie,Meeks,SG,2,28,1987,Kentucky,6270000,Jodie Meeks
+54,Patrick,Patterson,PF,4,26,1989,Kentucky,6268675,Patrick Patterson
+0,Spencer,Hawes,PF,4,27,1988,Washington,6110034,Spencer Hawes
+3,Marco,Belinelli,SG,2,29,1986,None,6060606,Marco Belinelli
+9,Gerald,Henderson,SG,2,27,1988,Duke,6000000,Gerald Henderson
+22,Andrew,Wiggins,SF,3,20,1995,Kansas,5758680,Andrew Wiggins
+32,Karl-Anthony,Towns,C,5,19,1996,Kentucky,5703600,Karl-Anthony Towns
+3,Bradley,Beal,SG,2,22,1993,Florida,5694674,Bradley Beal
+11,Jamal,Crawford,SG,2,35,1980,Michigan,5675000,Jamal Crawford
+5,Courtney,Lee,SG,2,29,1986,Western Kentucky,5675000,Courtney Lee
+7,J.J.,Hickson,PF,4,27,1988,North Carolina State,5613500,J.J. Hickson
+9,Martell,Webster,SF,3,28,1987,None,5613500,Martell Webster
+44,Nikola,Mirotic,PF,4,24,1991,None,5543725,Nikola Mirotic
+34,Shaun,Livingston,PG,1,30,1985,None,5543725,Shaun Livingston
+4,Josh,McRoberts,PF,4,28,1987,Duke,5543725,Josh McRoberts
+35,Mirza,Teletovic,PF,4,30,1985,None,5500000,Mirza Teletovic
+17,P.J.,Tucker,SF,3,30,1985,Texas,5500000,P.J. Tucker
+34,Brandan,Wright,PF,4,27,1988,North Carolina,5464000,Brandan Wright
+8,Deron,Williams,PG,1,31,1984,Illinois,5378974,Deron Williams
+21,Tim,Duncan,PF,4,39,1976,Wake Forest,5250000,Tim Duncan
+0,Nick,Young,SF,3,30,1985,USC,5219169,Nick Young
+27,Zaza,Pachulia,C,5,31,1984,None,5200000,Zaza Pachulia
+5,Victor,Oladipo,SG,2,23,1992,Indiana,5192520,Victor Oladipo
+9,Tony,Allen,SG,2,33,1982,Oklahoma State,5158539,Tony Allen
+12,Jabari,Parker,SF,3,20,1995,Duke,5152440,Jabari Parker
+3,Dion,Waiters,SG,2,23,1992,Syracuse,5138430,Dion Waiters
+1,D'Angelo,Russell,PG,1,19,1996,Ohio State,5103120,D'Angelo Russell
+35,Chris,Kaman,C,5,33,1982,Central Michigan,5016000,Chris Kaman
+7,Darren,Collison,PG,1,28,1987,UCLA,5013559,Darren Collison
+8,Jonas,Jerebko,PF,4,28,1987,None,5000000,Jonas Jerebko
+5,J.R.,Smith,SG,2,30,1985,None,5000000,J.R. Smith
+13,Marcus,Morris,PF,4,26,1989,Kansas,5000000,Marcus Morris
+10,Chase,Budinger,SF,3,27,1988,Arizona,5000000,Chase Budinger
+11,Chris,Andersen,PF,4,37,1978,Blinn College,5000000,Chris Andersen
+32,C.J.,Watson,PG,1,31,1984,Tennessee,5000000,C.J. Watson
+20,Timofey,Mozgov,C,5,29,1986,None,4950000,Timofey Mozgov
+33,Trevor,Booker,PF,4,27,1988,Clemson,4775000,Trevor Booker
+22,Otto,Porter,SF,3,22,1993,Georgetown,4662960,Otto Porter
+17,Jonas,Valanciunas,C,5,23,1992,None,4660482,Jonas Valanciunas
+21,Joel,Embiid,C,5,21,1994,Kansas,4626960,Joel Embiid
+8,Jahlil,Okafor,C,5,19,1996,Duke,4582680,Jahlil Okafor
+34,Mike,Dunleavy,SG,2,35,1980,Duke,4500000,Mike Dunleavy
+5,Kyle,Singler,SF,3,27,1988,Duke,4500000,Kyle Singler
+43,Kris,Humphries,PF,4,30,1985,Minnesota,4440000,Kris Humphries
+0,C.J.,Miles,SG,2,28,1987,None,4394225,C.J. Miles
+1,Jared,Dudley,SG,2,30,1985,Boston College,4375000,Jared Dudley
+1,Jameer,Nelson,PG,1,33,1982,Saint Joseph's,4345000,Jameer Nelson
+42,Alexis,Ajinca,C,5,27,1988,None,4314607,Alexis Ajinca
+15,Mario,Chalmers,PG,1,29,1986,Kansas,4300000,Mario Chalmers
+14,Jason,Smith,PF,4,29,1986,Colorado State,4300000,Jason Smith
+5,J.J.,Barea,PG,1,31,1984,Northeastern,4290000,J.J. Barea
+0,Damian,Lillard,PG,1,25,1990,Weber State,4236287,Damian Lillard
+40,Cody,Zeller,PF,4,22,1993,Indiana,4204200,Cody Zeller
+0,Aaron,Gordon,PF,4,20,1995,Arizona,4171680,Aaron Gordon
+6,Kristaps,Porzingis,PF,4,20,1995,None,4131720,Kristaps Porzingis
+15,Vince,Carter,SG,2,38,1977,North Carolina,4088019,Vince Carter
+34,Devin,Harris,PG,1,32,1983,Wisconsin,4053446,Devin Harris
+5,Lavoy,Allen,PF,4,26,1989,Temple,4050000,Lavoy Allen
+27,Jordan,Hill,C,5,28,1987,Arizona,4000000,Jordan Hill
+28,Ian,Mahinmi,C,5,28,1987,None,4000000,Ian Mahinmi
+13,Derrick,Williams,PF,4,24,1991,Arizona,4000000,Derrick Williams
+6,Alan,Anderson,SG,2,32,1983,Michigan State,4000000,Alan Anderson
+2,Raymond,Felton,PG,1,31,1984,North Carolina,3950313,Raymond Felton
+88,Nemanja,Bjelica,PF,4,27,1988,None,3950001,Nemanja Bjelica
+40,Harrison,Barnes,SF,3,23,1992,North Carolina,3873398,Harrison Barnes
+5,Marreese,Speights,C,5,28,1987,Florida,3815000,Marreese Speights
+21,Alex,Len,C,5,22,1993,Maryland,3807120,Alex Len
+11,Dante,Exum,SG,2,20,1995,None,3777720,Dante Exum
+6,Steve,Novak,SF,3,32,1983,Marquette,3750001,Steve Novak
+9,Kyle,O'Quinn,PF,4,25,1990,Norfolk State,3750000,Kyle O'Quinn
+4,Nick,Collison,PF,4,34,1981,Kansas,3750000,Nick Collison
+23,Mario,Hezonja,SF,3,20,1995,None,3741480,Mario Hezonja
+8,Patty,Mills,PG,1,27,1988,Saint Mary's,3578947,Patty Mills
+31,Terrence,Ross,SF,3,24,1991,Washington,3553917,Terrence Ross
+22,Matt,Barnes,SF,3,35,1980,UCLA,3542500,Matt Barnes
+5,Will,Barton,SG,2,24,1991,Memphis,3533333,Will Barton
+4,Nerlens,Noel,C,5,21,1994,Kentucky,3457800,Nerlens Noel
+36,Marcus,Smart,PG,1,21,1994,Oklahoma State,3431040,Marcus Smart
+11,Evan,Turner,SG,2,26,1989,Ohio State,3425510,Evan Turner
+44,Bojan,Bogdanovic,SG,2,26,1989,None,3425510,Bojan Bogdanovic
+0,Willie,Cauley-Stein,C,5,22,1993,Kentucky,3398280,Willie Cauley-Stein
+20,Quincy,Pondexter,SF,3,27,1988,Washington,3382023,Quincy Pondexter
+34,Paul,Pierce,SF,3,37,1978,Kansas,3376000,Paul Pierce
+2,Anthony,Morrow,SG,2,30,1985,Georgia Tech,3344000,Anthony Morrow
+90,Drew,Gooden,PF,4,34,1981,Kansas,3300000,Drew Gooden
+3,Mike,Miller,SF,3,35,1980,Florida,3283181,Mike Miller
+0,Andre,Drummond,C,5,22,1993,Connecticut,3272091,Andre Drummond
+32,K.J.,McDaniels,SG,2,22,1993,Clemson,3189794,K.J. McDaniels
+23,Ben,McLemore,SG,2,22,1993,Kansas,3156600,Ben McLemore
+4,Randy,Foye,SG,2,32,1983,Villanova,3135000,Randy Foye
+30,Julius,Randle,PF,4,20,1995,Kentucky,3132240,Julius Randle
+25,Austin,Rivers,SG,2,23,1992,Duke,3110796,Austin Rivers
+0,Emmanuel,Mudiay,PG,1,19,1996,None,3102240,Emmanuel Mudiay
+11,Meyers,Leonard,C,5,23,1992,Illinois,3075880,Meyers Leonard
+30,Norris,Cole,PG,1,26,1989,Cleveland State,3036927,Norris Cole
+3,Jeremy,Lamb,SG,2,23,1992,Connecticut,3034356,Jeremy Lamb
+43,Anthony,Tolliver,PF,4,30,1985,Creighton,3000000,Anthony Tolliver
+2,Brandon,Bass,PF,4,30,1985,LSU,3000000,Brandon Bass
+19,Jerryd,Bayless,PG,1,27,1988,Arizona,3000000,Jerryd Bayless
+14,D.J.,Augustin,PG,1,27,1988,Texas,3000000,D.J. Augustin
+31,John,Henson,PF,4,24,1991,North Carolina,2943221,John Henson
+4,Luis,Scola,PF,4,35,1980,None,2900000,Luis Scola
+21,Tibor,Pleiss,C,5,25,1990,None,2900000,Tibor Pleiss
+4,Maurice,Harkless,SF,3,22,1993,St. John's,2894059,Maurice Harkless
+5,Kentavious,Caldwell-Pope,SG,2,22,1993,Georgia,2891760,Kentavious Caldwell-Pope
+11,Nik,Stauskas,SG,2,21,1994,Michigan,2869440,Nik Stauskas
+22,Brian,Roberts,PG,1,29,1986,Dayton,2854940,Brian Roberts
+12,Kirk,Hinrich,SG,2,34,1981,Kansas,2854940,Kirk Hinrich
+40,Udonis,Haslem,PF,4,35,1980,Florida,2854940,Udonis Haslem
+44,Dante,Cunningham,PF,4,28,1987,Villanova,2850000,Dante Cunningham
+3,Stanley,Johnson,SF,3,19,1996,Arizona,2841960,Stanley Johnson
+19,Furkan,Aldemir,PF,4,24,1991,None,2836768,Furkan Aldemir
+18,Omri,Casspi,SF,3,27,1988,None,2836186,Omri Casspi
+0,Darrell,Arthur,PF,4,27,1988,Kansas,2814000,Darrell Arthur
+1,Kevin,Seraphin,PF,4,25,1990,None,2814000,Kevin Seraphin
+10,Sonny,Weems,SG,2,29,1986,Arkansas,2814000,Sonny Weems
+31,Caron,Butler,SF,3,35,1980,Connecticut,2814000,Caron Butler
+20,Manu,Ginobili,SG,2,38,1977,None,2814000,Manu Ginobili
+8,Bismack,Biyombo,PF,4,23,1992,None,2814000,Bismack Biyombo
+3,Trey,Burke,PG,1,22,1993,Michigan,2658240,Trey Burke
+21,Noah,Vonleh,PF,4,20,1995,Indiana,2637720,Noah Vonleh
+44,Tyler,Zeller,C,5,25,1990,North Carolina,2616975,Tyler Zeller
+44,Frank,Kaminsky,C,5,22,1993,Wisconsin,2612520,Frank Kaminsky
+7,Jared,Sullinger,PF,4,23,1992,Ohio State,2569260,Jared Sullinger
+3,C.J.,McCollum,SG,2,24,1991,Lehigh,2525160,C.J. McCollum
+4,Elfrid,Payton,PG,1,21,1994,Louisiana-Lafayette,2505720,Elfrid Payton
+50,Joel,Anthony,C,5,33,1982,UNLV,2500000,Joel Anthony
+19,Leandro,Barbosa,SG,2,32,1983,None,2500000,Leandro Barbosa
+3,James,Johnson,PF,4,28,1987,Wake Forest,2500000,James Johnson
+6,Terrence,Jones,PF,4,23,1992,Kentucky,2489530,Terrence Jones
+20,Justise,Winslow,SF,3,19,1996,Duke,2481720,Justise Winslow
+5,Michael,Carter-Williams,PG,1,23,1992,Syracuse,2399040,Michael Carter-Williams
+44,Andrew,Nicholson,PF,4,25,1990,St. Bonaventure,2380594,Andrew Nicholson
+3,Doug,McDermott,SF,3,23,1992,Creighton,2380440,Doug McDermott
+33,Myles,Turner,PF,4,19,1996,Texas,2357760,Myles Turner
+20,Donatas,Motiejunas,PF,4,25,1990,None,2288205,Donatas Motiejunas
+10,Evan,Fournier,SG,2,22,1993,None,2288205,Evan Fournier
+12,Steven,Adams,C,5,22,1993,Pittsburgh,2279040,Steven Adams
+0,Aaron,Brooks,PG,1,30,1985,Oregon,2250000,Aaron Brooks
+41,Trey,Lyles,PF,4,19,1996,Kentucky,2239800,Trey Lyles
+1,Tony,Wroten,SG,2,22,1993,Washington,2179353,Tony Wroten
+22,Steve,Blake,PG,1,35,1980,Maryland,2170465,Steve Blake
+99,Danny,Granger,SF,3,32,1983,New Mexico,2170465,Danny Granger
+19,Beno,Udrih,PG,1,33,1982,None,2170465,Beno Udrih
+7,Ramon,Sessions,PG,1,29,1986,Nevada,2170465,Ramon Sessions
+41,Kelly,Olynyk,C,5,24,1991,Gonzaga,2165160,Kelly Olynyk
+8,Zach,LaVine,PG,1,20,1995,UCLA,2148360,Zach LaVine
+5,Kendall,Marshall,PG,1,24,1991,North Carolina,2144772,Kendall Marshall
+7,Jeremy,Lin,PG,1,27,1988,Harvard,2139000,Jeremy Lin
+14,Gary,Neal,PG,1,30,1985,Towson,2139000,Gary Neal
+1,Devin,Booker,SG,2,18,1997,Kentucky,2127840,Devin Booker
+18,Miles,Plumlee,C,5,27,1988,Duke,2109294,Miles Plumlee
+52,Mo,Williams,PG,1,32,1983,Alabama,2100000,Mo Williams
+15,Shabazz,Muhammad,SF,3,22,1993,UCLA,2056920,Shabazz Muhammad
+2,Joe,Ingles,SF,3,28,1987,None,2050000,Joe Ingles
+12,T.J.,Warren,SF,3,22,1993,North Carolina State,2041080,T.J. Warren
+38,Perry,Jones,SF,3,24,1991,Baylor,2038206,Perry Jones
+22,Cameron,Payne,PG,1,21,1994,Murray State,2021520,Cameron Payne
+31,Festus,Ezeli,C,5,25,1990,Vanderbilt,2008748,Festus Ezeli
+45,DeJuan,Blair,C,5,26,1989,Pittsburgh,2000000,DeJuan Blair
+34,Giannis,Antetokounmpo,SF,3,20,1995,None,1953960,Giannis Antetokounmpo
+33,Adreian,Payne,PF,4,24,1991,Michigan State,1938840,Adreian Payne
+12,Kelly,Oubre,SF,3,19,1996,Kansas,1920240,Kelly Oubre
+23,Jusuf,Nurkic,C,5,21,1994,None,1842000,Jusuf Nurkic
+92,Lucas,Nogueira,C,5,23,1992,None,1842000,Lucas Nogueira
+12,Terry,Rozier,PG,1,21,1994,Louisville,1824360,Terry Rozier
+13,James,Young,SG,2,20,1995,Kentucky,1749840,James Young
+20,Rashad,Vaughn,SG,2,19,1996,UNLV,1733040,Rashad Vaughn
+4,Ryan,Kelly,PF,4,24,1991,Duke,1724250,Ryan Kelly
+77,Joffrey,Lauvergne,PF,4,24,1991,None,1709719,Joffrey Lauvergne
+11,Tyler,Ennis,PG,1,21,1994,Syracuse,1662360,Tyler Ennis
+7,Sam,Dekker,SF,3,21,1994,Wisconsin,1646400,Sam Dekker
+42,Lance,Thomas,SF,3,27,1988,Duke,1636842,Lance Thomas
+21,Lou,Amundson,PF,4,32,1983,UNLV,1635476,Lou Amundson
+10,Sergey,Karasev,SG,2,21,1994,None,1599840,Sergey Karasev
+14,Gary,Harris,SG,2,21,1994,Michigan State,1584480,Gary Harris
+13,Jerian,Grant,PG,1,22,1993,Notre Dame,1572360,Jerian Grant
+20,Tony,Snell,SF,3,23,1992,New Mexico,1535880,Tony Snell
+20,Bruno,Caboclo,SF,3,20,1995,None,1524000,Bruno Caboclo
+55,Delon,Wright,PG,1,23,1992,Utah,1509360,Delon Wright
+21,Wayne,Ellington,SG,2,27,1988,North Carolina,1500000,Wayne Ellington
+0,Shane,Larkin,PG,1,22,1993,Miami (FL),1500000,Shane Larkin
+30,David,West,PF,4,35,1980,Xavier,1499187,David West
+5,Gorgui,Dieng,C,5,25,1990,Louisville,1474440,Gorgui Dieng
+33,Mitch,McGary,PF,4,23,1992,Michigan,1463040,Mitch McGary
+1,Justin,Anderson,SG,2,21,1994,Virginia,1449000,Justin Anderson
+24,Mason,Plumlee,PF,4,25,1990,Duke,1415520,Mason Plumlee
+3,Jordan,Adams,SG,2,21,1994,UCLA,1404600,Jordan Adams
+5,Bobby,Portis,PF,4,20,1995,Arkansas,1391160,Bobby Portis
+9,Andrea,Bargnani,C,5,29,1986,None,1362897,Andrea Bargnani
+44,Solomon,Hill,SF,3,24,1991,Arizona,1358880,Solomon Hill
+5,Rodney,Hood,SG,2,22,1993,Duke,1348440,Rodney Hood
+24,Rondae,Hollis-Jefferson,SF,3,20,1995,Arizona,1335480,Rondae Hollis-Jefferson
+15,Alonzo,Gee,SF,3,28,1987,Alabama,1320000,Alonzo Gee
+15,Nikola,Jokic,C,5,20,1995,None,1300000,Nikola Jokic
+13,Shabazz,Napier,PG,1,24,1991,Connecticut,1294440,Shabazz Napier
+1,Tyus,Jones,PG,1,19,1996,Duke,1282080,Tyus Jones
+14,Sasha,Kaun,C,5,30,1985,Kansas,1276000,Sasha Kaun
+11,JaVale,McGee,C,5,27,1988,Nevada,1270964,JaVale McGee
+35,Cartier,Martin,PF,4,30,1985,Kansas State,1270964,Cartier Martin
+4,Brandon,Rush,SG,2,30,1985,Kansas,1270964,Brandon Rush
+25,Reggie,Bullock,SF,3,24,1991,North Carolina,1252440,Reggie Bullock
+15,Clint,Capela,C,5,21,1994,None,1242720,Clint Capela
+10,Jarell,Martin,PF,4,21,1994,LSU,1230840,Jarell Martin
+21,Andre,Roberson,SG,2,23,1992,Colorado,1210800,Andre Roberson
+19,P.J.,Hairston,SG,2,22,1993,North Carolina,1201440,P.J. Hairston
+40,Boban,Marjanovic,C,5,27,1988,None,1200000,Boban Marjanovic
+15,Austin,Daye,SF,3,27,1988,Gonzaga,1185784,Austin Daye
+55,Reggie,Williams,SF,3,29,1986,Virginia Military,1185784,Reggie Williams
+27,Rudy,Gobert,C,5,23,1992,None,1175880,Rudy Gobert
+55,Jordan,Mickey,PF,4,21,1994,LSU,1170960,Jordan Mickey
+20,Archie,Goodwin,SG,2,21,1994,Kentucky,1160160,Archie Goodwin
+30,C.J.,Wilcox,SG,2,24,1991,Washington,1159680,C.J. Wilcox
+7,Larry,Nance,PF,4,22,1993,Wyoming,1155600,Larry Nance
+9,Chris,Copeland,SF,3,31,1984,Colorado,1150000,Chris Copeland
+10,Damjan,Rudez,SF,3,29,1986,None,1149500,Damjan Rudez
+28,R.J.,Hunter,SG,2,21,1994,Georgia State,1148640,R.J. Hunter
+8,Matthew,Dellavedova,SG,2,25,1990,Saint Mary's,1147276,Matthew Dellavedova
+1,Kyle,Anderson,SF,3,22,1993,UCLA,1142880,Kyle Anderson
+1,Chris,McCullough,PF,4,20,1995,Syracuse,1140240,Chris McCullough
+34,Josh,Huestis,SF,3,23,1992,Stanford,1140240,Josh Huestis
+36,Kevon,Looney,SF,3,19,1996,UCLA,1131960,Kevon Looney
+21,Jeremy,Evans,SF,3,27,1988,Western Kentucky,1100602,Jeremy Evans
+45,Cole,Aldrich,C,5,26,1989,Kansas,1100602,Cole Aldrich
+33,Wesley,Johnson,SG,2,28,1987,Syracuse,1100602,Wesley Johnson
+8,Luke,Babbitt,SF,3,26,1989,Nevada,1100602,Luke Babbitt
+17,Garrett,Temple,SG,2,29,1986,LSU,1100602,Garrett Temple
+40,Glenn,Robinson,SF,3,21,1994,Michigan,1100000,Glenn Robinson
+22,Richaun,Holmes,PF,4,21,1994,Bowling Green,1074169,Richaun Holmes
+30,Jon,Leuer,PF,4,26,1989,Wisconsin,1035000,Jon Leuer
+4,Elliot,Williams,SG,2,26,1989,Memphis,1015421,Elliot Williams
+55,E'Twaun,Moore,SG,2,26,1989,Purdue,1015421,E'Twaun Moore
+5,James,Anderson,SG,2,26,1989,Oklahoma State,1015421,James Anderson
+25,Rakeem,Christmas,PF,4,23,1992,Syracuse,1007026,Rakeem Christmas
+1,Joseph,Young,PG,1,23,1992,Oregon,1007026,Joseph Young
+35,Montrezl,Harrell,PF,4,21,1994,Louisville,1000000,Montrezl Harrell
+33,Robert,Covington,SF,3,24,1991,Tennessee State,1000000,Robert Covington
+20,Quincy,Miller,PF,4,22,1993,Baylor,981348,Quincy Miller
+41,Thomas,Robinson,PF,4,24,1991,Kansas,981348,Thomas Robinson
+12,John,Jenkins,SG,2,24,1991,Vanderbilt,981348,John Jenkins
+50,Robert,Sacre,C,5,26,1989,Gonzaga,981348,Robert Sacre
+21,Hassan,Whiteside,C,5,26,1989,Marshall,981348,Hassan Whiteside
+13,Quincy,Acy,SF,3,24,1991,Baylor,981348,Quincy Acy
+23,Chris,Johnson,SF,3,25,1990,Dayton,981348,Chris Johnson
+9,Pablo,Prigioni,PG,1,38,1977,None,947726,Pablo Prigioni
+33,Willie,Reed,PF,4,25,1990,Saint Louis,947276,Willie Reed
+15,Donald,Sloan,PG,1,27,1988,Texas A&M;,947276,Donald Sloan
+30,Troy,Daniels,SG,2,24,1991,Virginia Commonwealth,947276,Troy Daniels
+50,Tyler,Hansbrough,PF,4,29,1986,North Carolina,947276,Tyler Hansbrough
+24,Richard,Jefferson,SF,3,35,1980,Arizona,947276,Richard Jefferson
+1,James,Jones,SF,3,34,1981,Miami (FL),947276,James Jones
+24,Samuel,Dalembert,C,5,34,1981,Seton Hall,947276,Samuel Dalembert
+3,Charlie,Villanueva,PF,4,31,1984,Connecticut,947276,Charlie Villanueva
+2,Chris,Babb,SG,2,25,1990,Iowa State,947276,Chris Babb
+31,Jason,Terry,SG,2,38,1977,Arizona,947276,Jason Terry
+99,Marcus,Thornton,SG,2,28,1987,LSU,947276,Marcus Thornton
+23,Toney,Douglas,PG,1,29,1986,Florida State,947276,Toney Douglas
+44,Chuck,Hayes,PF,4,32,1983,Kentucky,947276,Chuck Hayes
+5,Josh,Smith,SF,3,29,1986,None,947276,Josh Smith
+14,Gerald,Green,SG,2,29,1986,None,947276,Gerald Green
+5,Amar'e,Stoudemire,PF,4,32,1983,None,947276,Amar'e Stoudemire
+13,Jorge,Gutierrez,PG,1,26,1989,California,947276,Jorge Gutierrez
+7,Lorenzo,Brown,PG,1,25,1990,North Carolina State,947276,Lorenzo Brown
+24,Andre,Miller,PG,1,39,1976,Utah,947276,Andre Miller
+12,Tayshaun,Prince,SF,3,35,1980,Kentucky,947276,Tayshaun Prince
+5,Kendrick,Perkins,C,5,30,1985,None,947276,Kendrick Perkins
+18,Sasha,Vujacic,SG,2,31,1984,None,947276,Sasha Vujacic
+3,Dewayne,Dedmon,C,5,26,1989,USC,947276,Dewayne Dedmon
+0,Isaiah,Canaan,PG,1,24,1991,Murray State,947276,Isaiah Canaan
+31,Hollis,Thompson,SG,2,24,1991,Georgetown,947276,Hollis Thompson
+14,Ronnie,Price,PG,1,32,1983,Utah Valley,947276,Ronnie Price
+15,Henry,Sims,C,5,25,1990,Georgetown,947276,Henry Sims
+23,Allen,Crabbe,SF,3,23,1992,California,947276,Allen Crabbe
+26,Phil,Pressey,PG,1,24,1991,Missouri,947276,Phil Pressey
+30,Seth,Curry,SG,2,25,1990,Duke,947276,Seth Curry
+15,Matt,Bonner,C,5,35,1980,Florida,947276,Matt Bonner
+16,Jimmer,Fredette,PG,1,26,1989,BYU,947276,Jimmer Fredette
+3,Ray,McCallum,PG,1,24,1991,Detroit,947276,Ray McCallum
+15,Anthony,Bennett,PF,4,22,1993,UNLV,947276,Anthony Bennett
+17,Grant,Jerrett,PF,4,22,1993,Arizona,947276,Grant Jerrett
+24,Jeff,Withey,C,5,25,1990,Kansas,947276,Jeff Withey
+25,Raul,Neto,PG,1,23,1992,None,900000,Raul Neto
+17,Damien,Inglis,SF,3,20,1995,None,855000,Damien Inglis
+22,Markel,Brown,SG,2,23,1992,Oklahoma State,845059,Markel Brown
+41,Cameron,Bairstow,PF,4,24,1991,New Mexico,845059,Cameron Bairstow
+12,Joe,Harris,SG,2,24,1991,Virginia,845059,Joe Harris
+7,Dwight,Powell,PF,4,24,1991,Stanford,845059,Dwight Powell
+11,Erick,Green,PG,1,24,1991,Virginia Tech,845059,Erick Green
+13,Nick,Johnson,SG,2,22,1993,Arizona,845059,Nick Johnson
+8,Spencer,Dinwiddie,PG,1,22,1993,Colorado,845059,Spencer Dinwiddie
+55,Adonis,Thomas,SG,2,22,1993,Memphis,845059,Adonis Thomas
+20,James,Michael,SF,3,22,1993,North Carolina,845059,James Michael
+42,Shayne,Whittington,PF,4,24,1991,Western Michigan,845059,Shayne Whittington
+28,Tarik,Black,C,5,23,1992,Kansas,845059,Tarik Black
+15,Jabari,Brown,SG,2,22,1993,Missouri,845059,Jabari Brown
+6,Jordan,Clarkson,PG,1,23,1992,Missouri,845059,Jordan Clarkson
+0,JaMychal,Green,PF,4,25,1990,Alabama,845059,JaMychal Green
+2,Russ,Smith,PG,1,24,1991,Louisville,845059,Russ Smith
+1,Jarnell,Stokes,PF,4,21,1994,Tennessee,845059,Jarnell Stokes
+13,Keith,Benson,C,5,27,1988,None,845059,Keith Benson
+32,James,Ennis,SF,3,25,1990,Long Beach State,845059,James Ennis
+8,Tyler,Johnson,SG,2,23,1992,Fresno State,845059,Tyler Johnson
+7,Marcus,Landry,SF,3,29,1986,Wisconsin,845059,Marcus Landry
+77,Johnny,O'Bryant,C,5,22,1993,LSU,845059,Johnny O'Bryant
+25,Sean,Kilpatrick,SG,2,25,1990,Cincinnati,845059,Sean Kilpatrick
+11,Cleanthony,Early,SF,3,24,1991,Wichita State,845059,Cleanthony Early
+2,Langston,Galloway,PG,1,23,1992,Saint Joseph's,845059,Langston Galloway
+11,Devyn,Marble,SF,3,23,1992,Iowa,845059,Devyn Marble
+39,Jerami,Grant,SF,3,21,1994,Syracuse,845059,Jerami Grant
+9,JaKarr,Sampson,SG,2,22,1993,St. John's,845059,JaKarr Sampson
+55,Cory,Jefferson,PF,4,24,1991,Baylor,845059,Cory Jefferson
+22,Terrico,White,SG,2,25,1990,Ole Miss,845059,Terrico White
+10,Tim,Frazier,PG,1,24,1991,Penn State,845059,Tim Frazier
+25,Eric,Moreland,PF,4,23,1992,Oregon State,845059,Eric Moreland
+32,David,Stockton,PG,1,24,1991,Gonzaga,845059,David Stockton
+45,Jack,Cooley,SF,3,24,1991,Notre Dame,845059,Jack Cooley
+8,Bryce,Cotton,PG,1,23,1992,Providence,845059,Bryce Cotton
+13,Elijah,Millsap,SG,2,28,1987,UAB,845059,Elijah Millsap
+3,Anthony,Brown,SF,3,22,1993,Stanford,700000,Anthony Brown
+24,Norman,Powell,SG,2,22,1993,UCLA,650000,Norman Powell
+5,Pat,Connaughton,SG,2,22,1993,Notre Dame,625093,Pat Connaughton
+6,Darrun,Hilliard,SF,3,22,1993,Villanova,600000,Darrun Hilliard
+9,Aaron,Harrison,SG,2,20,1995,Kentucky,525093,Aaron Harrison
+97,Cristiano,Da,PF,4,23,1992,None,525093,Cristiano Da
+4,Brandon,Ashley,PF,4,21,1994,Arizona,525093,Brandon Ashley
+9,Jarrid,Famous,PF,4,27,1988,South Florida,525093,Jarrid Famous
+50,Salah,Mejri,C,5,29,1986,None,525093,Salah Mejri
+10,Maurice,Daly,SF,3,23,1992,Ohio,525093,Maurice Daly
+13,Jamil,Wilson,F,3,24,1991,Marquette,525093,Jamil Wilson
+22,Branden,Dawson,SF,3,22,1993,Michigan State,525093,Branden Dawson
+5,Michael,Frazier,SG,2,21,1994,Florida,525093,Michael Frazier
+10,Jonathan,Holmes,F,3,22,1993,Texas,525093,Jonathan Holmes
+9,Marcelo,Huertas,PG,1,32,1983,None,525093,Marcelo Huertas
+12,Robert,Upshaw,C,5,21,1994,Washington,525093,Robert Upshaw
+12,Corey,Hawkins,PG,1,24,1991,UC Davis,525093,Corey Hawkins
+14,Josh,Richardson,SG,2,22,1993,Tennessee,525093,Josh Richardson
+96,Greg,Whittington,SF,3,22,1993,Georgetown,525093,Greg Whittington
+31,Bryce,Dejean-Jones,SG,2,23,1992,Iowa State,525093,Bryce Dejean-Jones
+43,Thanasis,Antetokounmpo,SF,3,23,1992,None,525093,Thanasis Antetokounmpo
+7,Melvin,Ejim,SF,3,24,1991,Iowa State,525093,Melvin Ejim
+55,Pierre,Jackson,PG,1,24,1991,Baylor,525093,Pierre Jackson
+25,Scottie,Wilbekin,PG,1,22,1993,Florida,525093,Scottie Wilbekin
+23,Deonte,Burton,PG,1,24,1991,Nevada,525093,Deonte Burton
+32,Kyle,Casey,SF,3,25,1990,Harvard,525093,Kyle Casey
+34,Cliff,Alexander,PF,4,19,1996,Kansas,525093,Cliff Alexander
+44,Luis,Montero,SG,2,22,1993,Westchester CC,525093,Luis Montero
+26,Duje,Dukan,PF,4,23,1992,Wisconsin,525093,Duje Dukan
+17,Jonathon,Simmons,SG,2,26,1989,Houston,525093,Jonathon Simmons
+13,Ronald,Roberts,PF,4,24,1991,Saint Joseph's,525093,Ronald Roberts
+11,Shannon,Scott,PG,1,22,1993,Ohio State,525093,Shannon Scott
+30,Treveon,Graham,SG,2,21,1994,Virginia Commonwealth,525093,Treveon Graham
+22,J.J.,O'Brien,SF,3,23,1992,San Diego State,525093,J.J. O'Brien
